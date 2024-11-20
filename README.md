@@ -15,6 +15,12 @@
   * Násobení skalárem je asociativní a distributivní zleva i zprava
   * neutrální prvek 1 je neutrální i vůči nasobení vektoru skalárem
   * Existuje nulový vektor a libovolný násobek nulového vektoru je nulový vektor
+* Podprostor
+  * Nechť P je podmnožina T<sup>n</sup>, P je podprostor T<sup>n</sup> pokud platí:
+    * Množina P je neprázdná, P ≠ ∅
+    * Množina P je uzavřená vůči sčítání vektorů v ní
+    * Množina P je uzavřená vůči násobení vektorů v ní libovolným skalárem
+    * Značí se P ⊂⊂ T<sup>n</sup>
 * Lineárně Nezávislý soubor
   * právě když pouze triviální lineární kombinace tohoto souboru je rovna nulovému vektoru θ.
   * jinak je LineárnĚ závislý
